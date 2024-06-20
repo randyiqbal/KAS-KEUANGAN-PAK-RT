@@ -4,14 +4,11 @@
 
 | Nama             | NIM       | Kelas     | Mata Kuliah       |
 | ---------------- | --------- | --------- | ----------------- |
-| Dipca Anugrah    | 312210666 | TI.22.A.1 | Pemrograman Web 2 |
-| Hasbi Assidiki   | 312210448 | TI.22.A.1 | Pemrograman Web 2 |
-| Liskania Aprilia | 312210383 | TI.22.A.1 | Pemrograman Web 2 |
+| Randy Iqbal P    | 312210209 | TI.22.C.3 | Pemrograman Mobile 2 |
+| Esa Akbar        | 312210127 | TI.22.C.3 | Pemrograman Mobile 2 |
+| Muhammad Febryan | 312210215 | TI.22.C.3 | Pemrograman Mobile 2 |
 
-**Tutorial :** <br>
 
-1. Youtube : [TUTORIAL-PARSING-JSON](https://youtu.be/vx1BPpNz9Zc)
-2. Pdf : [TUTORIAL-PARSING-JSON](https://drive.google.com/file/d/16-8bdLOq8XLe2NZhrh5gDxPx43cq3GTu/view?usp=drive_link)
 
 **Proyek: Aplikasi Android untuk Laporan Keuangan KAS RT**
 
